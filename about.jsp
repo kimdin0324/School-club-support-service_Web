@@ -41,11 +41,9 @@
         	} 
     	} 
     </script>
-
-
   </head>
   <body>
-    
+  
 	 <nav class="navbar px-md-0 navbar-expand-lg navbar-dark ftco_navbar bg-dark ftco-navbar-light" id="ftco-navbar">
 	    <div class="container">
 	      <a class="navbar-brand" href="index.jsp">SHINHEUNG <span>Club Promotion Service</span></a>
