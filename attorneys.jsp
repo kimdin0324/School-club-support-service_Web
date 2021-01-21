@@ -40,7 +40,7 @@
 	    </div>
 	  </nav>
     <!-- END nav -->
-    
+    <!-- END nav -->
     <section class="hero-wrap hero-wrap-2" style="background-image: url('http://dong0324.cdn3.cafe24.com/bg_1.jpg');" data-stellar-background-ratio="0.5">
       <div class="overlay"></div>
       <div class="container">
